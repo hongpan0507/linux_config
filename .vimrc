@@ -3,7 +3,9 @@ colorscheme desert
 set number
 set tabstop=4
 set shiftwidth=4
-set expandtab
+set softtabstop=4
+set noexpandtab
 set autoindent
 set smartindent
 set cindent
+set nowrap
