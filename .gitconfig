@@ -1,5 +1,6 @@
 [user]
-	email = hpan@ou.edu
-	name = 450480
+	name = Hong Pan
+	email = hongpan0507@gmail.com 
 [alias]
 	graph-log = log --oneline --decorate --graph --all
+	ui = auto
